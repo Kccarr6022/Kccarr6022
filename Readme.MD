@@ -1,20 +1,15 @@
-# 💫 About Me:
-🔭 I am a student at Florida Gulf Coast University building my skills and working on projects here =>
-
-
 ### Programming Languages
-- C++
-- HTML5/CSS 
 - Python 
-- GDScript 
 - Javascript
+- SQL
+- - HTML5/CSS 
+- C++
 
-### Frameworks
-- React 
-- AngularJS 
-- Tailwind CSS 
-- Docker 
-- Kubernetes
+### Skills
+- Amazon Web Services 
+- Postgres SQL
+- Product Management
+- Software Development
 
 
 ### Bonus
