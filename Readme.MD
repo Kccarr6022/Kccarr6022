@@ -2,12 +2,14 @@
 - Python 
 - Javascript
 - SQL
-- - HTML5/CSS 
+- HTML5/CSS3
 - C++
 
 ### Skills
 - Amazon Web Services 
 - Postgres SQL
+- React.JS
+- RESTFUL APIs
 - Product Management
 - Software Development
 
