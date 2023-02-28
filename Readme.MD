@@ -2,6 +2,38 @@
 🔭 I am a student at Florida Gulf Coast University building my skills and working on projects here =>
 
 
+### Programming Languages
+- C++
+- HTML5/CSS 
+- Python 
+- GDScript 
+- Javascript
+
+### Frameworks
+- React 
+- AngularJS 
+- Tailwind CSS 
+- Docker 
+- Kubernetes
+
+
+### Bonus
+- 🌱 I’m currently attending launchcodes Liftoff!
+- ⚡ Fun fact: Game jams are fun!
+
+
+<img
+    src="https://github-readme-stats.vercel.app/api?username=Kccarr6022&show_icons=true&theme=react&&hide_border=true&&PAT_1"
+  />
+
+<img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kccarr6022&&theme=react&&hide_border=true"
+  />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediknight813&layout=compact&theme=react&&PAT_1)
+](https://github.com/Kccarr6022/github-readme-stats&theme=react)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadencarr) 
 
