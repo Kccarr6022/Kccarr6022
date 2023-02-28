@@ -1,4 +1,8 @@
 <img
+    src="https://github-readme-stats.vercel.app/api?username=Kccarr6022&show_icons=true&theme=react&&hide_border=true&&PAT_1"
+  />
+
+<img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Kccarr6022&&theme=react&&hide_border=true"
   />
 
@@ -16,10 +20,6 @@
 - RESTFUL APIs
 - Product Management
 - Software Development
-
-<img
-    src="https://github-readme-stats.vercel.app/api?username=Kccarr6022&show_icons=true&theme=react&&hide_border=true&&PAT_1"
-  />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadencarr) 
