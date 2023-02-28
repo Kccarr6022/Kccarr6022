@@ -9,7 +9,7 @@
 - HTML5/CSS3
 - C++
 
-### Skills
+### Proficient in
 - Amazon Web Services 
 - Postgres SQL
 - React.JS
@@ -20,10 +20,6 @@
 <img
     src="https://github-readme-stats.vercel.app/api?username=Kccarr6022&show_icons=true&theme=react&&hide_border=true&&PAT_1"
   />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediknight813&layout=compact&theme=react&&PAT_1)
-](https://github.com/Kccarr6022/github-readme-stats&theme=react)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadencarr) 
