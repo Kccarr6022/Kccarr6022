@@ -10,11 +10,13 @@
 
 ### Proficient in
 - Amazon Web Services 
-- Postgres SQL
+- Postgres SQL / SQLite
 - React.JS
 - RESTFUL APIs
 - Product Management
 - Software Development
+- Tailwind CSS
+- YAML
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadencarr) 
