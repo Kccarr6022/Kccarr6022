@@ -12,6 +12,7 @@
 - Amazon Web Services 
 - Postgres SQL / SQLite
 - React.JS
+- FastAPI|Flask|Express|Lambdas
 - RESTFUL APIs
 - Product Management
 - Software Development
