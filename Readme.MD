@@ -16,8 +16,9 @@
 - RESTFUL APIs
 - Product Management
 - Software Development
-- Tailwind CSS
+- Tailwind CSS | SASS | CSS
 - YAML|CDK|CI/CD
+- Pytest
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadencarr) 
