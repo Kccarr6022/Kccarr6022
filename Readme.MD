@@ -15,7 +15,7 @@
 - Software Development
 - Tailwind CSS | SASS | CSS
 - YAML|CDK|CI/CD|Docker|Bash
-- Pytest
+- Pytest|Pytest-cov
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadencarr) 
