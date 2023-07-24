@@ -14,7 +14,7 @@
 - Product Management
 - Software Development
 - Tailwind CSS | SASS | CSS
-- YAML|CDK|CI/CD
+- YAML|CDK|CI/CD|Docker|Bash
 - Pytest
 
 ## 🌐 Socials:
