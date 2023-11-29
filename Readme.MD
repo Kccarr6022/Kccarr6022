@@ -15,6 +15,7 @@
 - Software Development
 - Tailwind CSS | SASS | CSS
 - YAML|CDK|CI/CD|Docker|Bash
+- GitOps (Github Workflow / GitLab-CI)
 - Pytest|Pytest-cov
 
 ## 🌐 Socials:
