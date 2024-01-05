@@ -1,6 +1,7 @@
 ### Programming Languages
 - Python 
 - Javascript
+- Kotlin
 - SQL
 - HTML5/CSS3
 - C++
@@ -13,10 +14,10 @@
 - RESTFUL APIs
 - Product Management
 - Software Development
-- Tailwind CSS | SASS | CSS
-- YAML|CDK|CI/CD|Docker|Bash
+- Tailwind CSS|SASS|CSS
+- YAML|CDK|CI/CD|Docker|Bash|Kubernetes 
 - GitOps (Github Workflow / GitLab-CI)
-- Pytest|Pytest-cov
+- Pytest|Pytest-cov|JUnit
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadencarr) 
